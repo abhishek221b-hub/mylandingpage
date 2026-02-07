@@ -82,7 +82,7 @@ const PurposeSection = () => {
     },
     {
       title: "Personalization",
-      description: "Every situation demands it's personalized inference.",
+      description: "Every situation demands it's own inference.",
       color: "from-emerald-400 to-teal-500",
       glow: "rgba(16, 185, 129, 0.6)",
       borderGlow: "rgba(16, 185, 129, 0.3)",

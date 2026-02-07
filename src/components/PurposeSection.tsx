@@ -60,7 +60,7 @@ const PurposeSection = () => {
   const pillars = [
     {
       title: "Domain Expertise",
-      description: "Built on lived experiences — years of getting things wrong across countries and industries.",
+      description: "Built on lived experiences — not algorithms.",
       color: "from-indigo-500 to-purple-600",
       glow: "rgba(99, 102, 241, 0.6)",
       borderGlow: "rgba(99, 102, 241, 0.3)",
@@ -71,7 +71,7 @@ const PurposeSection = () => {
     },
     {
       title: "Augmentation",
-      description: "Building things that help people make slightly better decisions.",
+      description: "Building tools that augment your decision making.",
       color: "from-amber-400 to-orange-500",
       glow: "rgba(251, 191, 36, 0.6)",
       borderGlow: "rgba(251, 191, 36, 0.3)",
@@ -82,7 +82,7 @@ const PurposeSection = () => {
     },
     {
       title: "Personalization",
-      description: "No two situations are the same. Every tool tries to meet you where you are.",
+      description: "Every situation demands it's personalized inference.",
       color: "from-emerald-400 to-teal-500",
       glow: "rgba(16, 185, 129, 0.6)",
       borderGlow: "rgba(16, 185, 129, 0.3)",
